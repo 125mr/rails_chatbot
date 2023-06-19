@@ -1,0 +1,15 @@
+current directory: /Users/murakami/Desktop/live-chat-rails/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/murakami/.rbenv/versions/3.1.4/bin/ruby -I /Users/murakami/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/murakami/Desktop/live-chat-rails/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230619-88519-m4cl90 sitelibdir\=./.gem.20230619-88519-m4cl90 clean
+
+current directory: /Users/murakami/Desktop/live-chat-rails/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230619-88519-m4cl90 sitelibdir\=./.gem.20230619-88519-m4cl90
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/murakami/Desktop/live-chat-rails/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230619-88519-m4cl90 sitelibdir\=./.gem.20230619-88519-m4cl90 install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230619-88519-m4cl90
